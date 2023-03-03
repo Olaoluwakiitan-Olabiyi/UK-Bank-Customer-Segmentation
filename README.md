@@ -1,5 +1,7 @@
-# UK-Bank-Customer-Segmentation
-A tableau story on UK Bank Customers
+<H1>UK-Bank-Customer-Segmentation</H1>
+
+A Tableau story on UK Bank Customer Segmentation.
+
 Click the link below to interact with the dashboard
 https://public.tableau.com/views/UKBankCustomerSegmentation_16764591793500/UKBankCustomerSegmentation?:language=en-GB&:display_count=n&:origin=viz_share_link
 
